@@ -1,2 +1,3 @@
 kaizhiw
-father
+kaizhiwu
+UChicago CS Git Tutorial
